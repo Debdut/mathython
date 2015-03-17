@@ -4,7 +4,7 @@ TEX_OPTIONS = -shell-escape
 TEX_CLEAN = aux\|out\|pyg\|log\|toc
 
 # --- Defining targets
-all: Mathython clean
+all: Mathython
 
 Mathython:
 	xelatex -shell-escape Mathython.tex
