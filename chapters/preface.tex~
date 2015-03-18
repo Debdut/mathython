@@ -1,7 +1,7 @@
 \chapter*{Preface}
 
 Mathython as you guessed means Math + Python. This book guides you through how can you enrich your mathematical creativty
-with the master tool Python. This book requires neither any previous knowledge of Python nor any experience with 
+with the master tool "Python". This book requires neither any previous knowledge of Python nor any experience with 
 programming. But some experience with middle school mathematics and eagerness to explore is expected. The format of this
 book is almost like story-telling although it covers some serious topics. I earnestly hope that you will enjoy it. If 
 you find any error feel free to contact me or commit your fix at \url{http://github.com/debdut/mathython} . I will be
@@ -9,7 +9,7 @@ very happy to recieve any comments or ideas about this book.
 
 \begin{flushright}
 
-Debdut Karmakar \hspace{0.2in}
+Debdut Karmakar \qquad
 
 {\color{blue} < iawaiponly@gmail.com >}
 

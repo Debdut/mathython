@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009/Debian) (format=xelatex 2015.3.16)  17 MAR 2015 21:04
+This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009/Debian) (format=xelatex 2015.3.16)  18 MAR 2015 20:34
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -293,82 +293,82 @@ runsystem(pygmentize -S native -f latex > Mathython.pyg)...executed.
 (./chapters/chapter2.aux) (./chapters/appendixA.aux))
 \openout1 = `Mathython.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid this).
- on input line 74.
+ on input line 77.
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 74.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 74.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 74.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 74.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 74.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 74.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 74.
-LaTeX Font Info:    Redeclaring math accent \check on input line 74.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 74.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 74.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 74.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 74.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 74.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 74.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 74.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 74.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 74.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 74.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 74.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 74.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 74.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 74.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 74.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 74.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 74.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 77.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 77.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 77.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 77.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 77.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 77.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 77.
+LaTeX Font Info:    Redeclaring math accent \check on input line 77.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 77.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 77.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 77.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 77.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 74.
+(Font)              `operators' in the math version `normal' on input line 77.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> EU1/lmr/m/n on input line 74.
+(Font)                  OT1/cmr/m/n --> EU1/lmr/m/n on input line 77.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 74.
+(Font)              `operators' in the math version `bold' on input line 77.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> EU1/lmr/m/n on input line 74.
+(Font)                  OT1/cmr/bx/n --> EU1/lmr/m/n on input line 77.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  EU1/lmr/m/n --> EU1/lmr/m/n on input line 74.
+(Font)                  EU1/lmr/m/n --> EU1/lmr/m/n on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  EU1/lmr/m/n --> EU1/lmr/m/n on input line 74.
+(Font)                  EU1/lmr/m/n --> EU1/lmr/m/n on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> EU1/lmr/m/it on input line 74.
+(Font)                  OT1/cmr/m/it --> EU1/lmr/m/it on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> EU1/lmr/bx/n on input line 74.
+(Font)                  OT1/cmr/bx/n --> EU1/lmr/bx/n on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 74.
+(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 74.
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 77.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  EU1/lmr/m/n --> EU1/lmr/bx/n on input line 74.
+(Font)                  EU1/lmr/m/n --> EU1/lmr/bx/n on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  EU1/lmr/m/n --> EU1/lmr/bx/n on input line 74.
+(Font)                  EU1/lmr/m/n --> EU1/lmr/bx/n on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> EU1/lmr/bx/it on input line 74.
+(Font)                  OT1/cmr/bx/it --> EU1/lmr/bx/it on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 74.
+(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 77.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 74.
-Package hyperref Info: Link coloring ON on input line 74.
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 77.
+Package hyperref Info: Link coloring ON on input line 77.
 
 (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
 Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
@@ -378,8 +378,8 @@ Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
 \c@section@level=\count115
 )
-LaTeX Info: Redefining \ref on input line 74.
-LaTeX Info: Redefining \pageref on input line 74.
+LaTeX Info: Redefining \ref on input line 77.
+LaTeX Info: Redefining \pageref on input line 77.
  (./Mathython.out)
 (./Mathython.out)
 \@outlinefile=\write5
@@ -389,41 +389,42 @@ LaTeX Info: Redefining \pageref on input line 74.
  [1
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 107.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 110.
 
  (/usr/share/texmf/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 107
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 110
 .
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 107.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 110.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 118.
+(Font)              <7> on input line 121.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 118.
- [2] (./Mathython.toc
+(Font)              <5> on input line 121.
+ [2]
+\openout2 = `chapters/preface.aux'.
+
+ (./chapters/preface.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 3.
+(Font)              <12> on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 3.
+(Font)              <8> on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 3.
+(Font)              <6> on input line 7.
 )
+[3
+
+
+] (./Mathython.toc)
 \tf@toc=\write6
 \openout6 = `Mathython.toc'.
 
- [3
-
-]
-\openout2 = `chapters/preface.aux'.
-
-
-(./chapters/preface.tex) [4
+ [4
 
 
 ]
@@ -432,7 +433,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  (./chapters/chapter1.tex
 Chapter 1.
 ) [5
-
 
 
 ]
@@ -454,8 +454,20 @@ LaTeX Font Info:    Font shape `EU1/lmtt/bx/n' in size <12> not available
 )
 runsystem(rm Mathython.out.pyg)...executed.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+runsystem(pygmentize -l text -f latex -F tokenmerge             -P "verboptions
+= ,framesep=10pt,frame=lines,xleftmargin=10pt,rulecolor=\color {bgtext}" -o Mat
+hython.out.pyg src_org/chapter2/hellonum.txt)...executed.
+
+(./Mathython.out.pyg)
+runsystem(rm Mathython.out.pyg)...executed.
+
 )
-Underfull \hbox (badness 10000) in paragraph at lines 8--138
+Underfull \hbox (badness 10000) in paragraph at lines 12--141
 
  []
 
@@ -484,12 +496,12 @@ LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 (./chapters/preface.aux) (./chapters/chapter1.aux) (./chapters/chapter2.aux)
 (./chapters/appendixA.aux)) ) 
 Here is how much of TeX's memory you used:
- 6967 strings out of 495724
- 115267 string characters out of 1189346
- 220267 words of memory out of 3000000
- 9942 multiletter control sequences out of 15000+50000
+ 6971 strings out of 495724
+ 115329 string characters out of 1189346
+ 220385 words of memory out of 3000000
+ 9944 multiletter control sequences out of 15000+50000
  7126 words of font info for 43 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 33i,9n,38p,475b,365s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 33i,9n,38p,453b,365s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on Mathython.pdf (15 pages).

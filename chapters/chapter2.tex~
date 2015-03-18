@@ -1,0 +1,8 @@
+
+\chapter{Python \& Numbers}
+
+\section{Hello Numbers}
+
+Lets get our hands dirty! We start with this "Hello Numbers" example :
+
+\inputpythoncodefile{src_org/chapter2/hellonum.py}

@@ -18,14 +18,11 @@
   {\bfseries\ttfamily\textcolor[RGB]{173,175,117}{#1}}}
 
 \definecolor{bg}{RGB}{32,32,32}
-\definecolor{bgtext}{gray}{0.5}
 \usemintedstyle{native}
 
 %%------------------------------------------------------------
 % Commands to make inputting formatted code easy\newminted{}
 \newcommand{\inputpythoncodefile}[1]{\inputminted[bgcolor=bg,framesep=10pt,frame=lines,xleftmargin=10pt,rulecolor=\color{bg}]{python}{#1}}
-
-\newcommand{\inputtextfile}[1]{\inputminted[bgcolor=bgtext,framesep=10pt,frame=lines,xleftmargin=10pt,rulecolor=\color{bgtext}]{text}{#1}}
 
 \newcommand{\inputpythonfilesection}[4]{\inputminted[bgcolor=bg,framesep=10pt,frame=lines,xleftmargin=10pt,rulecolor=\color{bg},firstline=#2,lastline=#3,gobble=#4]{python}{#1}}
 
@@ -135,8 +132,8 @@ The \LaTeX\ source for this book is available from
 
 %-- Chapters Begin-------------------------
 \fontsize{12pt}{18pt}\selectfont
-\include{chapters/preface}
 \tableofcontents
+\include{chapters/preface}
 \include{chapters/chapter1}
 \include{chapters/chapter2}
 \include{chapters/appendixA}
