@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009/Debian) (format=xelatex 2015.3.16)  18 MAR 2015 20:34
+This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009/Debian) (format=xelatex 2015.3.16)  18 MAR 2015 20:55
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -466,12 +466,12 @@ hython.out.pyg src_org/chapter2/hellonum.txt)...executed.
 (./Mathython.out.pyg)
 runsystem(rm Mathython.out.pyg)...executed.
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 12--141
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
-[6
+) [6
 
 
 
