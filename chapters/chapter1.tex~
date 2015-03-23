@@ -3,9 +3,9 @@
 
 \section{Introduction}
 
-In this chapter we will create the {\color{magenta} Mathython}  Environment. I have been using GNU/Linux environment while writing this book
+In this chapter we will create the {\color{cyan} Mathython}  Environment. I have been using GNU/Linux environment while writing this book
 and will assume that you are also running some GNU/Linux distribution or atleast some Unix-type operating system. I hope that
-does not deter you from reading this book! {\color{magenta} Don't worry! this chapter includes instructions for setting up a GNU/Linux distribution.}
+does not deter you from reading this book! {\color{cyan} Don't worry! this chapter includes instructions for setting up a GNU/Linux distribution.}
 Or if you can import my instructions for use in windows, I won't mind. If you are in MacOS, feel happy because you are already
 in a Unix-type environment but still there will be some little differences.
 
@@ -19,7 +19,7 @@ Choose any GNU/Linux distribution based on Debian/Ubuntu, some of the preferred 
 \item \href{http://linuxmint.com}{Linux Mint (Windows-Like)}
 \end{itemize}
 
-Out of this, I prefer {\color{magenta} Elementary OS}\footnote{I have some special instructions for Elementary OS \href{http://itsfoss.com/top-ten-installing-elementary-os-luna/}{here} to make it the nicest workplace. Experiment with it and have some fun!} for beginners. Note The instructions in the whole book for all of this distributions is same.
+Out of this, I prefer {\color{cyan} Elementary OS}\footnote{I have some special instructions for Elementary OS \href{http://itsfoss.com/top-ten-installing-elementary-os-luna/}{here} to make it the nicest workplace. Experiment with it and have some fun!} for beginners. Note The instructions in the whole book for all of this distributions is same.
 So you have two options:
 \begin{itemize}
 \item Install GNU/Linux distribution in your harddisk.
