@@ -30,8 +30,6 @@ Python generally separates numbers in two ways :
 \item Floating point numbers, eg. $(1.0, 1.2, 1.3, 0.0, 1.3332)$ , as type {\color{cyan} float} to represent decimals upto a certain precision.
 \end{itemize}
 
-{\color{cyan} int} have the capability to handle numbers from $-2^{31}$ to $2^{31}-1$ . For integers larger than that are handled by {\color{cyan} long} type. For example, (100000000000000L, 1L). The letter {\color{cyan} L} at the end denotes type. Operations involving {\color{cyan} long} type numbers may output in {\color{cyan} long} type even if they are in range of {\color{cyan} int} type.
-
 Python also has other types such as {\color{cyan} Decimal}, {\color{cyan} Fraction}, {\color{cyan} complex}
 to handle other types of numbers. We will go through those later in this book.
 
@@ -65,29 +63,3 @@ we go to new line. The backspace character does not show the previous character.
 \subsection{Booleans}
 
 You may or may not know that there is a lot math about booleans. In python, we call them {\color{cyan} bool} type. It have two values {\color{cyan} true} and {\color{cyan} false} . For mathematical purposes, we use 1 for {\color{cyan} true} and 0 for {\color{cyan}}.
-We will talk about them later.
-
-\section{Python as calculator}
-
-Open python console and follow me :
-
-\inputpythoncodefile{src_org/chapter2/democal.py}
-
-After we write each line, we press {\color{magenta} <Enter>} , get the result and continue.
-Some operations in python :
-
-\begin{itemize}
-\item + or addition operator; it is a binary operator, i.e, takes two inputs and gives single output.
-\item * or multiplication operator; it is a binary operator, i.e, takes two inputs and gives single output.
-\item - or subtraction operator; it is a binary operator, i.e, takes two inputs and gives single output.
-\item / or division operator; it is a binary operator, i.e, takes two inputs and gives single output.
-\item ** or exponentiation operator; it is a binary operator, i.e, takes two inputs and gives single output. (Simply, power operator, for eg. $2^2$ or 2 to the power 2)
-\end{itemize}
-
-Note : All this operators work with {\color{cyan} int}, {\color{cyan} long}, {\color{cyan} Fraction}, {\color{cyan} float} and {\color{cyan} complex}. The + operation is also used for strings to conacatenate or merge. Other operators in the list do not work with strings. We will talk about this topic later.
-
-\subsection{Addition}
-
-\inputpythoncodefile{src_org/chapter2/addition.py}
-
-
