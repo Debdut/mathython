@@ -82,12 +82,32 @@ Some operations in python :
 \item - or subtraction operator; it is a binary operator, i.e, takes two inputs and gives single output.
 \item / or division operator; it is a binary operator, i.e, takes two inputs and gives single output.
 \item ** or exponentiation operator; it is a binary operator, i.e, takes two inputs and gives single output. (Simply, power operator, for eg. $2^2$ or 2 to the power 2)
+\item \% or modulus operator; it is a binary operator, i.e, takes two inputs and gives single output. It is the remainder operator.
 \end{itemize}
 
-Note : All this operators work with {\color{cyan} int}, {\color{cyan} long}, {\color{cyan} Fraction}, {\color{cyan} float} and {\color{cyan} complex}. The + operation is also used for strings to conacatenate or merge. Other operators in the list do not work with strings. We will talk about this topic later.
+Note : All this operators other than last one work with {\color{cyan} int}, {\color{cyan} long}, {\color{cyan} Fraction}, {\color{cyan} float} and {\color{cyan} complex}. The modulus character works with only {\color{cyan} int} and {\color{cyan} long} type. The + operation is also used for strings to conacatenate or merge. Other operators in the list do not work with strings. We will talk about this topic later.
 
 \subsection{Addition}
 
 \inputpythoncodefile{src_org/chapter2/addition.py}
+
+Lets proceed to subtraction.
+
+\subsection{Subtraction}
+
+\inputpythoncodefile{src_org/chapter2/subtraction.py}
+
+\subsection{Multiplication}
+
+\inputpythoncodefile{src_org/chapter2/multiply.py}
+
+
+\subsection{Division}
+
+\inputpythoncodefile{src_org/chapter2/dividion.py}
+
+In the second example, we see that 10/4 = 2. Actually it gives the quotient of 10 divided by 4.
+But 10.0/4 = 2.5 since 10.0 is a {\color{cyan} float} type, python performs a decimal type division.
+In the last example we see that we get a error message on dividing by 0 as it is not possible.
 
 
